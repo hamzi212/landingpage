@@ -1,0 +1,97 @@
+.nav-item{
+  margin-right: 7px;
+}
+.Nav-item{
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.Header{
+  text-align: center;
+  background-color: rgba(21, 21, 71, 0.651);
+  color: white;
+  margin-bottom: 0;
+}
+
+.wrapper{
+  background-image: url('../public/imagefolder/index-furniture-65f07553eef2f.jpg');
+  height: 40rem;
+  position: relative;
+  font-size: 50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 2048px;
+  margin: 0px;
+  width: 84rem;
+}
+
+
+.textinfo{
+  position: absolute;
+  top: 4%;
+  left: 39%;
+  
+}
+.para{
+  font-size: medium;
+  color: white;
+  left:30%;
+  right: 20%;
+}
+
+.room{
+  text-align: center;
+}
+
+.card{
+  background-image: url(../public/imagefolder/Sofa-Chair-1.jpg);
+  height: 15rem;
+  max-width: 27vh;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  display: inline-block;
+  
+}
+
+.furniture{
+  background-image: url(../public/imagefolder/website-homepage.jpg);
+  height: 40rem;
+  position: relative;
+  font-size: 50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 2048px;
+  margin: 0px;
+  width: 84rem;
+  
+}
+
+.bed{
+  position: absolute;
+  top: 4%;
+  left: 39%;
+}
+
+h1{
+  text-align: center;
+}
+
+.pic{
+  background-image: url(../public/imagefolder/pngtree-stylish-children-s-bedroom-design-with-four-poster-bed-nightstands-and-picture-image_5835553.jpg);
+  height: 40rem;
+  position: relative;
+  font-size: 50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 2048px;
+  margin: 0px;
+  width: 84rem;
+}
+
+.para1{
+  text-align: center;
+  
+}
+
+.text-center{
+  background-color: rgba(0, 0, 0, 0.05);
+}
